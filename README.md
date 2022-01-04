@@ -2,7 +2,7 @@
 
 ## Installing dependencies
 
-> git clone https://github.com/TitirBiswas/G-calssromm G-Class
+> git clone https://github.com/TitirBiswas/Smart-Classroom G-Class
 
 - Inside `server` folder, create a new file called `.env` which stores your `ATLAS_URI`, `SECURITY_KEY` and `CLIENT_URL` information
   - store your database URI inside `ATLAS_URI` variable

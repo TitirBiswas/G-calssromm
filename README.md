@@ -1,4 +1,4 @@
-# G-calssromm
+# G-classromm
 
 ## Installing dependencies
 
